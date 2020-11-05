@@ -1,0 +1,11 @@
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\bin\Debug\SampleLogin.exe
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\bin\Debug\SampleLogin.pdb
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\bin\Debug\SampleLogin.xml
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\obj\x86\Debug\SampleLogin.Form1.resources
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\obj\x86\Debug\SampleLogin.Resources.resources
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\obj\x86\Debug\SampleLogin.exe
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\obj\x86\Debug\SampleLogin.xml
+c:\users\ken\documents\visual studio 2010\Projects\SampleLogin\SampleLogin\obj\x86\Debug\SampleLogin.pdb
